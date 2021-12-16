@@ -2,7 +2,8 @@
 Repository Debian 10
 
 
-deb http://deb.debian.org/debian buster main contrib non-free deb-src http://deb.debian.org/debian buster main contrib non-free
+deb http://deb.debian.org/debian buster main contrib non-free 
+deb-src http://deb.debian.org/debian buster main contrib non-free
 
 deb http://deb.debian.org/debian buster-updates main contrib non-free
 deb-src http://deb.debian.org/debian buster-updates main contrib non-free

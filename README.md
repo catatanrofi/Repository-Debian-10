@@ -1,15 +1,4 @@
 # Repository Debian 10
 Repository Debian 10
 
-
-deb http://deb.debian.org/debian buster main contrib non-free 
-deb-src http://deb.debian.org/debian buster main contrib non-free
-
-deb http://deb.debian.org/debian buster-updates main contrib non-free
-deb-src http://deb.debian.org/debian buster-updates main contrib non-free
-
-deb http://deb.debian.org/debian buster-backports main contrib non-free
-deb-src http://deb.debian.org/debian buster-backports main contrib non-free
-
-deb http://security.debian.org/debian-security/ buster/updates main contrib non-free
-deb-src http://security.debian.org/debian-security/ buster/updates main contrib non-free
+Repository adalah kumpulan paket software ataupun kumpulan aplikasi yang di kumpulkan di satu tempat media dalam hal ini bisa media CD,DVD,HD,Lan ataupun internet ( mungkin ada media lain cuman yang saya tau baru itu )
